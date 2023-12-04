@@ -8,3 +8,5 @@ DerivedData/
 .netrc
 lcov.info
 Package.resolved
+
+result
